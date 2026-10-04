@@ -1,0 +1,19 @@
+# Local runtime, caches, and secrets. Never commit these.
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.sqlite
+*.sqlite3
+*.db
+data/
+logs/
+youtube-token.json
+youtube-client.json
+*cookie*
+*.zip
+*.pem
+*.key
+.env
+.env.*
+secrets/

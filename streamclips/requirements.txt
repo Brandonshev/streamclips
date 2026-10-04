@@ -1,0 +1,7 @@
+streamlit==1.64.0
+yt-dlp[default]==2026.8.19
+imageio-ffmpeg==0.6.0
+faster-whisper==1.2.1
+google-api-python-client>=2.170,<3
+google-auth-oauthlib>=1.2,<2
+Pillow>=11,<13
